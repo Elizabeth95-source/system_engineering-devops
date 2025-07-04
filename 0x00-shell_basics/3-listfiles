@@ -1,0 +1,5 @@
+#!/bin/bash
+# This script displays the contents of the current directory in a long format.
+# The 'ls -l' command is used to show detailed information about each file and directory,
+# including permissions, owner, group, size, and modification date.
+ls -l

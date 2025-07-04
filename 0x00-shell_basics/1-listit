@@ -1,0 +1,4 @@
+#!/bin/bash
+# This script displays the contents (files and directories) of the current working directory.
+# The 'ls' command is used without any arguments to list the items.
+ls

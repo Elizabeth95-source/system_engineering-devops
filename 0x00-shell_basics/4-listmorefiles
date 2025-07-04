@@ -1,0 +1,6 @@
+#!/bin/bash
+# This script displays all contents (including hidden files) of the current directory
+# in a long format.
+# The 'ls -al' command combines the '-a' option (for all files, including those starting with '.')
+# and the '-l' option (for long format listing).
+ls -al

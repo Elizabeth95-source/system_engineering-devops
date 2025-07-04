@@ -1,0 +1,6 @@
+#!/bin/bash
+# This script switches the current user to the user 'betty'.
+# The 'su' command without any arguments switches to the superuser (root),
+# but when followed by a username, it switches to that specific user.
+# The command 'su betty' is exactly 8 characters long, fulfilling the requirement.
+su betty

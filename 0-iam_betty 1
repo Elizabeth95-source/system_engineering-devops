@@ -1,0 +1,5 @@
+#!/bin/bash
+# This script switches the current user to the user 'betty'.
+# The 'su betty' command is used for this purpose and is exactly 8 characters long.
+# It is assumed that the user 'betty' exists on the system.
+su betty

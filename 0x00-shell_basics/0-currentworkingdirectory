@@ -1,2 +1,4 @@
 #!/bin/bash
+# This script prints the absolute path name of the current working directory.
+# The 'pwd' command (Print Working Directory) is used for this purpose.
 pwd

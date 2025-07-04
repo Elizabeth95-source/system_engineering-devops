@@ -1,0 +1,6 @@
+#!/bin/bash
+# This script changes the current working directory to the user's home directory.
+# The 'cd' command, when used without any arguments, defaults to changing
+# the directory to the current user's home directory.
+# This fulfills the requirement of not using any explicit shell variables like $HOME or ~.
+cd

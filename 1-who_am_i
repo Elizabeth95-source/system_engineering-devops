@@ -1,0 +1,4 @@
+#!/bin/bash
+# This script prints the effective username of the current user.
+# The 'whoami' command is used for this purpose.
+whoami
